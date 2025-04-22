@@ -1,0 +1,609 @@
+{
+    "locales": {
+        "en": {
+            "title": "Portfolio",
+            "title_long_prefix": "Take a look at",
+            "title_long": "My **Portfolio**"
+        },
+
+        "es": {
+            "title": "",
+            "title_long_prefix": "",
+            "title_long": ""
+        },
+
+        "fr": {
+            "title": "",
+            "title_long_prefix": "",
+            "title_long": ""
+        },
+
+        "ko": {
+            "title": "",
+            "title_long_prefix": "",
+            "title_long": ""
+        }
+    },
+
+    "articles": [
+        {
+            "id": "portfolio",
+            "component": "ArticlePortfolio",
+            "config": {},
+            "locales": {},
+
+            "categories": [
+                {
+                    "id": "apps",
+                    "locales": {
+                        "en": {"singular": "App", "plural": "Apps"},
+                        "es": {"singular": "App", "plural": "Apps"},
+                        "fr": {"singular": "App", "plural": "Apps"},
+                        "ko": {"singular": "앱", "plural": "앱들"}
+                    }
+                },
+                {
+                    "id": "websites",
+                    "locales": {
+                        "en": {"singular": "Website", "plural": "Web"},
+                        "es": {"singular": "Sitio web", "plural": "Web"},
+                        "fr": {"singular": "Site web", "plural": ""},
+                        "ko": {"singular": "", "plural": ""}
+                    }
+                },
+                {
+                    "id": "figma",
+                    "locales": {
+                        "en": {"singular": "Figma", "plural": "Figma"},
+                        "es": {"singular": "", "plural": ""},
+                        "fr": {"singular": "", "plural": ""},
+                        "ko": {"singular": "", "plural": ""}
+                    }
+                }
+            ],
+
+            "items": [
+                
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "bibo_scraper/images/pictures/fusion.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "",
+                        "screenshots": {
+                            "aspectRatio": "9:16",
+                            "images": [
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Fitness Fusion",
+                            "text": "A cross-platform built with <b>React Native</b>, providing efficient monitoring of <b>body physique</b>.",
+                            "tags": ["React Native"]
+                        },
+                        "es": {
+                            "title": "",
+                            "text": "",
+                            "tags": []
+                        },
+                        "fr": {
+                            "title": "",
+                            "text": "",
+                            "tags": []
+                        },
+                        "ko": {
+                            "title": "",
+                            "text": "",
+                            "tags": []
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "bibo_scraper/images/pictures/tech-care.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "",
+                                "",
+                                ""
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Tech Care Pro",
+                            "text": "A fully-featured productivity app developed with <b>React Native</b>, enabling users to book for repair services via the app.",
+                            "tags": ["React Native"]
+                        },
+                        "es": {
+                            "title": "",
+                            "text": "",
+                            "tags": []
+                        },
+                        "fr": {
+                            "title": "",
+                            "text": "",
+                            "tags": []
+                        },
+                        "ko": {
+                            "title": "",
+                            "text": "",
+                            "tags": []
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "bibo_scraper/images/pictures/movie.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "",
+                                "",
+                                ""
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Movie App",
+                            "text": "An entertainment app developed with <b>React Native</b>, enabling users choose movies.",
+                            "tags": ["React Native"]
+                        },
+                        "es": {
+                            "title": "",
+                            "text": "",
+                            "tags": []
+                        },
+                        "fr": {
+                            "title": "",
+                            "text": "",
+                            "tags": []
+                        },
+                        "ko": {
+                            "title": "",
+                            "text": "",
+                            "tags": []
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "bibo_scraper/images/pictures/estate.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": ""}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "",
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Real Estate",
+                            "text": "A real estate website built using <b>React.js</b>, allowing users to <b>browse properties</b> and manage their posts targeting the relevant audience",
+                            "tags": ["React", "Node.", "MongoDB"]
+                        },
+                        "es": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        },
+                        "fr": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        },
+                        "ko": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        }
+                    }
+                },
+
+                
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "bibo_scraper/images/pictures/health.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": ""}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Health Connect",
+                            "text": "A website built with <b>React</b> used to book hospital appointments",
+                            "tags": ["React", "Node", "MongoDB"]
+                        },
+                        "es": {
+                            "title": "",
+                            "text": "",
+                            "tags": ["]"]
+                        },
+                        "fr": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        },
+                        "ko": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "bibo_scraper/images/pictures/d2d.png",
+                        "fa": null,
+                        "faColors": {"bg": "#111", "fill": "#EEE"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": ""}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "",
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Mzigo D2D",
+                            "text": "A static dummy website developed with <b>React</b>, just explaining how to offer <b>seamless</b> delivery at your fingertips..",
+                            "tags": ["React", "MUI", "Transport"]
+                        },
+                        "es": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        },
+                        "fr": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        },
+                        "ko": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "figma",
+                    "icon": {
+                        "img": "bibo_scraper/images/pictures/kidanga.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "",
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Kidanga System",
+                            "text": "It designed to enhance interactions and streamline management tasks for students, lecturers, and administrators.",
+                            "tags": ["Education"]
+                        },
+                        "es": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        },
+                        "fr": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        },
+                        "ko": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "figma",
+                    "icon": {
+                        "img": "bibo_scraper/images/pictures/kwachu.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "",
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Kwachu",
+                            "text": "Kwachu empowers you to streamline communication, engage customers, and boost your sales—all through the familiar, convenient WhatsApp platform.",
+                            "tags": ["Campaigns"]
+                        },
+                        "es": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        },
+                        "fr": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        },
+                        "ko": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "figma",
+                    "icon": {
+                        "img": "bibo_scraper/images/pictures/ujirani.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "",
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Ujirani",
+                            "text": "A community web app for connecting neighbors to share resources, report issues, and foster local collaboration.",
+                            "tags": ["Community"]
+                        },
+                        "es": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        },
+                        "fr": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        },
+                        "ko": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "figma",
+                    "icon": {
+                        "img": "bibo_scraper/images/pictures/furbsh.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "",
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "furbsh",
+                            "text": "A marketplace where customers can buy an item right from your storefront.",
+                            "tags": ["E-commerce"]
+                        },
+                        "es": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        },
+                        "fr": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        },
+                        "ko": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "figma",
+                    "icon": {
+                        "img": "bibo_scraper/images/pictures/sarova.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "",
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Sarova Woodlands",
+                            "text": "A mobile UI used to automate processes within the luxurious hotel",
+                            "tags": ["Hotel"]
+                        },
+                        "es": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        },
+                        "fr": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        },
+                        "ko": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "figma",
+                    "icon": {
+                        "img": "bibo_scraper/images/pictures/tech-care.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "",
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Tech Care Pro",
+                            "text": "A mobile platform UI that helps users and techys to have a seamless booking of repairs via the app.",
+                            "tags": ["Technology"]
+                        },
+                        "es": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        },
+                        "fr": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        },
+                        "ko": {
+                            "title": "",
+                            "text": "",
+                            "tags": [""]
+                        }
+                    }
+                }
+
+                
+            ]
+        }
+    ]
+}

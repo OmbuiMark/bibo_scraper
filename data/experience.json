@@ -1,0 +1,150 @@
+{
+    "locales": {
+        "en": {
+            "title": "Experience",
+            "title_long_prefix": "Summary of my",
+            "title_long": "**Work** Experience"
+        },
+
+        "es": {
+            "title": "",
+            "title_long_prefix": "",
+            "title_long": ""
+        },
+
+        "fr": {
+            "title": "",
+            "title_long_prefix": "",
+            "title_long": ""
+        },
+
+        "ko": {
+            "title": "",
+            "title_long_prefix": "",
+            "title_long": ""
+        }
+    },
+
+    "articles": [
+        {
+            "id": "work",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "bibo_scraper/images/pictures/lytfix.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "02/15/2020",
+                        "end": "12/15/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**UI/UX** Designer",
+                            "info": "Lytfix Technology",
+                            "text": "Developed wire frames and prototypes to effectively communicate design ideas to stakeholders and team members.",
+                            "tags": ["Figma", "Adobe XD"]
+                        },
+                        "es": {
+                            "title": "",
+                            "info": "",
+                            "text": "",
+                            "tags": null
+                        },
+                        "fr": {
+                            "title": "",
+                            "info": "",
+                            "text": "",
+                            "tags": null
+                        },
+                        "ko": {
+                            "title": "",
+                            "info": "",
+                            "text": "",
+                            "tags": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "bibo_scraper/images/pictures/the-band.png",
+                        "fa": null,
+                        "faColors": {"bg": "#111", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "01/15/2023",
+                        "end": "06/01/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Front End** Developer",
+                            "info": "The Band Originals",
+                            "text": "<p>Worked closely with UX/UI designers to translate their designs into functional web applications, with a focus on:</p> <ul><li>User Experience</li><li>Scalability to handle thousands of users</li></ul>",
+                            "tags": ["React", "Material UI"]
+                        },
+                        "es": {
+                            "title": "",
+                            "info": "",
+                            "text": "",
+                            "tags": []
+                        },
+                        "fr": {
+                            "title": "",
+                            "info": "",
+                            "text": "",
+                            "tags": []
+                        },
+                        "ko": {
+                            "title": "",
+                            "info": "",
+                            "text": "",
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "bibo_scraper/images/pictures/ITR.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "07/01/2023",
+                        "end": "Now"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Graphic** Designer",
+                            "info": "ITR Business Solutions Limited",
+                            "text": "Designed visual content for both digital and print media, ensuring consistency across various platforms. Utilized design software such as Adobe Creative Suite to produce high-quality graphics and layouts.",
+                            "tags": ["Adobe Photoshop", "Adobe Illustrator", "Figma"]
+                        },
+                        "es": {
+                            "title": "",
+                            "info": "",
+                            "text": "",
+                            "tags": null
+                        },
+                        "fr": {
+                            "title": "",
+                            "info": "",
+                            "text": "",
+                            "tags": null
+                        },
+                        "ko": {
+                            "title": "",
+                            "info": "",
+                            "text": "",
+                            "tags": null
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

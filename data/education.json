@@ -1,0 +1,154 @@
+{
+    "locales": {
+        "en": {
+            "title": "Education",
+            "title_long_prefix": "This is my",
+            "title_long": "**Educational** Background"
+        },
+
+        "es": {
+            "title": "Educación",
+            "title_long_prefix": "Esta es mi",
+            "title_long": "**Formación** Educativa"
+        },
+
+        "fr": {
+            "title": "Éducation",
+            "title_long_prefix": "C'est mon",
+            "title_long": "**Contexte** Éducatif"
+        },
+
+        "ko": {
+            "title": "교육",
+            "title_long_prefix": "이것은 내",
+            "title_long": "**교육적** 배경"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "academic",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "bibo_scraper/images/pictures/njiiri.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "02/01/2016",
+                        "end": "11/30/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Kenya** Certificate of Secondary Education",
+                            "info": "Njiiri School",
+                            "text": "Earned the Kenya Certificate of Secondary Education (KCSE), demonstrating a solid foundation in core subjects like Mathematics, Sciences, and Humanities.",
+                            "tags": []
+                        },
+                        "es": {
+                            "title": "",
+                            "info": "",
+                            "text": "",
+                            "tags": null
+                        },
+                        "fr": {
+                            "title": "",
+                            "info": "",
+                            "text": "",
+                            "tags": null
+                        },
+                        "ko": {
+                            "title": "",
+                            "info": "",
+                            "text": "",
+                            "tags": null
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "bibo_scraper/images/pictures/ugs.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "01/01/2008",
+                        "end": "11/01/2014"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Kenya** Certificate of Primary Education",
+                            "info": "Uthiru Genesis Group of Schools",
+                            "text": "Completed primary education with the Kenya Certificate of Primary Education (KCPE), gaining a foundational understanding of key subjects that prepared me for secondary studies and set a solid base for lifelong learning",
+                            "tags": []
+                        },
+                        "es": {
+                            "title": "",
+                            "info": "",
+                            "text": "",
+                            "tags": null
+                        },
+                        "fr": {
+                            "title": "",
+                            "info": "",
+                            "text": "",
+                            "tags": null
+                        },
+                        "ko": {
+                            "title": "",
+                            "info": "",
+                            "text": "",
+                            "tags": null
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "bibo_scraper/images/pictures/mmu.jpeg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "09/01/2020",
+                        "end": "04/25/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Degree** in Computer Science",
+                            "info": "Machakos University",
+                            "text": "<p>Completed a comprehensive Degree program focused on cutting-edge Coding topics, including:</p> <ul><li>Web Development</li><li>Mobile Development</li><li>Design Basics</li></ul> <p class='mt-3'>Applied research and theory to develop practical web and mobile solutions, combining academic excellence with real-world innovation.</p>",
+                            "tags": ["React", "React Native"]
+                        },
+                        "es": {
+                            "title": "",
+                            "info": "",
+                            "text": "",
+                            "tags": []
+                        },
+                        "fr": {
+                            "title": "",
+                            "info": "",
+                            "text": "",
+                            "tags": []
+                        },
+                        "ko": {
+                            "title": "",
+                            "info": "",
+                            "text": "",
+                            "tags": []
+                        }
+                    }
+                }
+
+                
+            ]
+        }
+    ]
+}
